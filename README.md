@@ -6,20 +6,91 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ## 🛠️ Technical Skills
 
-- **Frontend Development**  
-  - React, Flutter, FlutterFlow, CSS, Html
-- **Backend Development**  
-  - PostgreSQL, Java, Javascript, C, REST APIs, Firebase, Supabase 
-- **AI & Data Integration**  
-  - Designing and implementing **LLM pipelines** (LangChain, LangFlow, CrewAI, Buildship).  
-  - Crafting **prompt engineering** strategies for enhanced AI outputs.  
-  - Creating datasets (e.g., CEFR grammar topics) for AI training and NLP tasks.
-- **Database Management**  
-  - PostgreSQL, SQL, and ORM design for complex relational structures and efficient JSON ingestion.
-- **Low-Code Development**  
-  - Rapid prototyping and business idea validation using FlutterFlow and Supabase.
-- **ETL Pipelines**  
-  - Expertise in Extract, Transform, Load (ETL) processes for seamless data integration.
+<p align="center">
+  <!-- Frontend Development -->
+  <h3 align="center">Frontend Development</h3>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://flutterflow.io/">
+    <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+
+  <!-- Backend Development -->
+  <h3 align="center">Backend Development</h3>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a>
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/REST%20API-00ADD8?style=for-the-badge&logo=api&logoColor=white" />
+  </a>
+
+  <!-- AI & Data Integration -->
+  <h3 align="center">AI & Data Integration</h3>
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white" />
+  </a>
+  <a href="https://langflow.org/">
+    <img src="https://img.shields.io/badge/LangFlow-681DFF?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://buildship.dev/">
+    <img src="https://img.shields.io/badge/Buildship-FF6F61?style=for-the-badge&logo=gradle&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-FFCC00?style=for-the-badge&logo=openai&logoColor=black" />
+  </a>
+
+  <!-- Database Management -->
+  <h3 align="center">Database Management</h3>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ORM-808080?style=for-the-badge&logo=database&logoColor=white" />
+  </a>
+
+  <!-- Low-Code Development -->
+  <h3 align="center">Low-Code Development</h3>
+  <a href="https://flutterflow.io/">
+    <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+
+  <!-- ETL Pipelines -->
+  <h3 align="center">ETL Pipelines</h3>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
