@@ -7,118 +7,107 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 ## 🛠️ Technical Skills
 
 
-<div class="tech-stack">
-  <!-- Frontend Development -->
-  <h3>Frontend Development</h3>
-  <p>
-    <a class="badge" href="https://flutter.dev/">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    </a>
-    <a class="badge" href="https://flutterflow.io/">
-      <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
-    </a>
-    <a class="badge" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </a>
-    <a class="badge" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </a>
-  </p>
+<h2 align="center">💻 My Tech Stack</h2>
 
-  <!-- Backend Development -->
-  <h3>Backend Development</h3>
-  <p>
-    <a class="badge" href="https://www.postgresql.org/">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </a>
-    <a class="badge" href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    </a>
-    <a class="badge" href="https://dart.dev/">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    </a>
-    <a class="badge" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </a>
-    <a class="badge" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    </a>
-    <a class="badge" href="https://isocpp.org/">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    </a>
-    <a class="badge" href="https://firebase.google.com/">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    </a>
-    <a class="badge" href="https://supabase.com/">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    </a>
-    <a class="badge" href="#">
-      <img src="https://img.shields.io/badge/Edge%20Functions-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-    </a>
-  </p>
+<!-- Frontend Development Section -->
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://flutterflow.io/">
+    <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
 
-<div style="font-family: Arial, sans-serif; text-align: center;">
-  <h2 style="color: #0078D7; font-weight: bold;">Tech Stack</h2>
+<!-- Backend Development Section -->
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a>
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Edge%20Functions-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  </a>
+</p>
 
-  <!-- Frontend Development -->
-  <div style="margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; max-width: 600px; background-color: #f9f9f9;">
-    <h3 style="color: #02569B; font-weight: bold;">Frontend Development</h3>
-    <p>
-      <a href="https://flutter.dev/">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      </a>
-      <a href="https://flutterflow.io/">
-        <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      </a>
-    </p>
-  </div>
+<!-- AI & Data Integration Section -->
+<h3 align="center">AI & Data Integration</h3>
+<p align="center">
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white" />
+  </a>
+  <a href="https://langflow.org/">
+    <img src="https://img.shields.io/badge/LangFlow-681DFF?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://buildship.dev/">
+    <img src="https://img.shields.io/badge/Buildship-FF6F61?style=for-the-badge&logo=gradle&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-FFCC00?style=for-the-badge&logo=openai&logoColor=black" />
+  </a>
+</p>
 
-  <!-- Backend Development -->
-  <div style="margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; max-width: 600px; background-color: #f9f9f9;">
-    <h3 style="color: #007396; font-weight: bold;">Backend Development</h3>
-    <p>
-      <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </a>
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      </a>
-      <a href="https://dart.dev/">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </a>
-      <a href="https://isocpp.org/">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      </a>
-      <a href="https://firebase.google.com/">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      </a>
-      <a href="https://supabase.com/">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Edge%20Functions-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-      </a>
-    </p>
-  </div>
+<!-- Database Management Section -->
+<h3 align="center">Database Management</h3>
+<p align="center">
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ORM-808080?style=for-the-badge&logo=database&logoColor=white" />
+  </a>
+</p>
 
-  <!-- AI & Data Integration -->
-  <div style="margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; max-width: 600px; background-color: #f9f9f9;">
-    <h3 style="color: #FF5733; font-weight: bold;">AI & Data Integration</h3>
-    <p>
-      <a href="https://www.langchain.com/">
-        <img src="https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white" />
-      </a>
-      <a href="https://langflow.org/">
-        <img src="https://img.shields.io/badge
+<!-- Low-Code Development Section -->
+<h3 align="center">Low-Code Development</h3>
+<p align="center">
+  <a href="https://flutterflow.io/">
+    <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+</p>
+
+<!-- ETL Pipelines Section -->
+<h3 align="center">ETL Pipelines</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+</p>
+
 
 
 
