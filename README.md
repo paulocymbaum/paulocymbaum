@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code development**, and a focus on delivering impactful solutions for business validation and low-scale applications. My work combines technical proficiency, creativity, and strategic thinking to create robust, end-to-end applications.
+I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code development**, and a focus on delivering impactful solutions for business validation and low-scale applications. My work combines technical proficiency, creativity, and strategic thinking to create robust, end-to-end applications. I am currently building my own products and businesses to develop my skills and I am open for new experiences to be able to develop myself in efficient, driven teams to build digital products with seamless UX.
 
 ---
 
@@ -128,7 +128,9 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 <h2>🎓 Formal Education</h2>
 
   - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
-  - Diploma of Business and Management (Envirotech Education - Australia)
+  - Diploma of Business (Envirotech Education - Australia)
+  - Diploma of Management (Envirotech Education - Australia)
+  - Diploma of Project Management (Envirotech Education - Australia)
 
 ---
 
