@@ -10,8 +10,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 <h2 align="center">💻 My Tech Stack</h2>
 
 <!-- Frontend Development Section -->
-<h3 align="center">Frontend Development</h3>
-<p align="center">
+<h3>Frontend Development</h3>
+<p>
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
@@ -27,8 +27,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- Backend Development Section -->
-<h3 align="center">Backend Development</h3>
-<p align="center">
+<h3>Backend Development</h3>
+<p>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
@@ -59,8 +59,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- AI & Data Integration Section -->
-<h3 align="center">AI & Data Integration</h3>
-<p align="center">
+<h3>AI & Data Integration</h3>
+<p>
   <a href="https://www.langchain.com/">
     <img src="https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white" />
   </a>
@@ -76,8 +76,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- Database Management Section -->
-<h3 align="center">Database Management</h3>
-<p align="center">
+<h3>Database Management</h3>
+<p>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
@@ -90,8 +90,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- Low-Code Development Section -->
-<h3 align="center">Low-Code Development</h3>
-<p align="center">
+<h3>Low-Code Development</h3>
+<p>
   <a href="https://flutterflow.io/">
     <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
@@ -101,8 +101,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- ETL Pipelines Section -->
-<h3 align="center">ETL Pipelines</h3>
-<p align="center">
+<h3>ETL Pipelines</h3>
+<p>
   <a href="#">
     <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
   </a>
