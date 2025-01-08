@@ -7,9 +7,9 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 ## 🛠️ Technical Skills
 
 - **Frontend Development**  
-  - React, Flutter, FlutterFlow
+  - React, Flutter, FlutterFlow, CSS, Html
 - **Backend Development**  
-  - PostgreSQL, Supabase, REST APIs, Firebase  
+  - PostgreSQL, Java, Javascript, C, REST APIs, Firebase, Supabase 
 - **AI & Data Integration**  
   - Designing and implementing **LLM pipelines** (LangChain, LangFlow, CrewAI, Buildship).  
   - Crafting **prompt engineering** strategies for enhanced AI outputs.  
@@ -39,10 +39,12 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 ## 🌟 Projects and Contributions
 
 Check out my repositories for projects showcasing:  
-- AI integration and NLP pipelines.  
+- AI integration and NLP pipelines.
+- Designed the data schema and data structure for Yapper.
+- Designed the CI/CD flow to keep robustness on the deployment and testing process.  
 - Custom PostgreSQL functions for lesson platforms.  
 - Fullstack applications leveraging low-code and traditional development.
-- A developing completely a Learning Experience Platform using AI to generate json structured English Lessons inside the platform. Leveraging my teaching expertise, business acumen and tech skills.
+- A developing completely a Learning Experience Platform called Yapper using AI to generate json structured English Lessons inside the platform. Leveraging my teaching expertise, business acumen and tech skills.
 - A CRM for my private tutoring business organizing all the financial and customer relationship metrics and dashboards.  
 
 ---
