@@ -125,6 +125,13 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
+<h2>🎓 Formal Education</h2>
+
+  - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
+  - Diploma of Business and Management (Envirotech Education - Australia)
+
+---
+
 <h2>🌟 Projects and Contributions</h2>
 
 Check out my repositories for projects showcasing:  
@@ -148,12 +155,6 @@ Check out my repositories for projects showcasing:
   Building backends, designing lesson pipelines, and developing complete applications from scratch.
 
 
----
-
-<h2>💼 Formal Education</h2>
-
-  - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
-  - Diploma of Business and Management (Envirotech Education - Australia)  
 ---
 
 <h2>🌍 Beyond Code</h2>
