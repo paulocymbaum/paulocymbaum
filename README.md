@@ -4,8 +4,6 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-## 🛠️ Technical Skills
-
 
 <h2 align="center">💻 My Tech Stack</h2>
 
@@ -114,7 +112,7 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-## 🚀 What I Bring to the Table
+<h2 align="center">🚀 What I Bring to the Table</h2>
 
 - **Business-Centric Solutions**  
   Combining technical expertise with strategic insight to build solutions for real-world business challenges.
@@ -127,7 +125,7 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-## 🌟 Projects and Contributions
+<h2 align="center">🌟 Projects and Contributions</h2>
 
 Check out my repositories for projects showcasing:  
 - AI integration and NLP pipelines.
@@ -140,7 +138,7 @@ Check out my repositories for projects showcasing:
 
 ---
 
-## 💼 Experience Highlights
+<h2 align="center">💼 Experience Highlights</h2>
 
 - **Educator & Technologist**  
   Deep experience in **teaching and education**, with a focus on tech, AI, and automation engineering.
@@ -155,7 +153,7 @@ Check out my repositories for projects showcasing:
 
 ---
 
-## 🌍 Beyond Code
+<h2 align="center">🌍 Beyond Code</h2>
 
 I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/).
 
