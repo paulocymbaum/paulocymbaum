@@ -25,6 +25,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- Backend Development Section -->
+Here's the updated section with a Python badge added:
+
 <h3>Backend Development</h3>
 <p>
   <a href="https://www.postgresql.org/">
@@ -53,6 +55,9 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Edge%20Functions-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
