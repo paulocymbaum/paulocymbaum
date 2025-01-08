@@ -5,7 +5,7 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 ---
 
 
-<h2 align="center">💻 My Tech Stack</h2>
+<h2>💻 My Tech Stack</h2>
 
 <!-- Frontend Development Section -->
 <h3>Frontend Development</h3>
@@ -112,7 +112,7 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-<h2 align="center">🚀 What I Bring to the Table</h2>
+<h2>🚀 What I Bring to the Table</h2>
 
 - **Business-Centric Solutions**  
   Combining technical expertise with strategic insight to build solutions for real-world business challenges.
@@ -125,7 +125,7 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-<h2 align="center">🌟 Projects and Contributions</h2>
+<h2>🌟 Projects and Contributions</h2>
 
 Check out my repositories for projects showcasing:  
 - AI integration and NLP pipelines.
@@ -138,7 +138,7 @@ Check out my repositories for projects showcasing:
 
 ---
 
-<h2 align="center">💼 Experience Highlights</h2>
+<h2>💼 Experience Highlights</h2>
 
 - **Educator & Technologist**  
   Deep experience in **teaching and education**, with a focus on tech, AI, and automation engineering.
@@ -147,13 +147,16 @@ Check out my repositories for projects showcasing:
 - **App Development**  
   Building backends, designing lesson pipelines, and developing complete applications from scratch.
 
-- **Formal Education**:  
-  - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
-  - Diploma of Business and Management (Envirotech Education - Australia)  
 
 ---
 
-<h2 align="center">🌍 Beyond Code</h2>
+<h2>💼 Formal Education</h2>
+
+  - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
+  - Diploma of Business and Management (Envirotech Education - Australia)  
+---
+
+<h2>🌍 Beyond Code</h2>
 
 I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/).
 
