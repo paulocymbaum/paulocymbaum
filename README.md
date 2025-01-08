@@ -6,40 +6,6 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ## 🛠️ Technical Skills
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-  }
-  .tech-stack {
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 800px;
-    background: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  .tech-stack h3 {
-    margin: 20px 0 10px;
-    font-size: 1.5em;
-    color: #4A90E2;
-    text-align: center;
-    border-bottom: 2px solid #e0e0e0;
-    padding-bottom: 10px;
-  }
-  .tech-stack p {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-  .badge {
-    text-decoration: none;
-    margin: 5px;
-  }
-</style>
 
 <div class="tech-stack">
   <!-- Frontend Development -->
