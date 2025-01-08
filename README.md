@@ -66,7 +66,7 @@ Check out my repositories for projects showcasing:
 
 ## 🌍 Beyond Code
 
-I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://linkedin.com).
+I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/).
 
 ---
 
