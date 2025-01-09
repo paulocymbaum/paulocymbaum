@@ -25,7 +25,6 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 </p>
 
 <!-- Backend Development Section -->
-Here's the updated section with a Python badge added:
 
 <h3>Backend Development</h3>
 <p>
