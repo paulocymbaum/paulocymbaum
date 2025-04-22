@@ -3,7 +3,9 @@
 I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code development**, and a focus on delivering impactful solutions for business validation and low-scale applications. My work combines technical proficiency, creativity, and strategic thinking to create robust, end-to-end applications. I am currently building my own products and businesses to develop my skills and I am open for new experiences to be able to develop myself in efficient, driven teams to build digital products with seamless UX.
 
 ---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="paulosasakicymbaum" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/paulosasakicymbaum?trk=profile-badge">LINKEDIN PROFILE.</a></div>
 
+---
 
 <h2>💻 My Tech Stack</h2>
 
