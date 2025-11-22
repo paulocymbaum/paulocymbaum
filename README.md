@@ -2,10 +2,7 @@
 <div align="center">
 
   ![paulocymbaum's Stats](https://github-readme-stats.vercel.app/api?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![paulocymbaum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=paulocymbaum&label=Profile%20Views&color=0e75b6&style=flat" alt="paulocymbaum" />
-
+ 
 </div>
 
 I am a **Fullstack Developer** and **Founding Engineer** with expertise in **AI technologies**, **DevOps automation**, **Software Engineering**, and **low-code development** for business value. My work combines technical proficiency with strategic thinking to build robust, end-to-end applications. 
@@ -188,6 +185,10 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 <h2>🌍 Beyond Code</h2>
 
 I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/).
+ <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=paulocymbaum&label=Profile%20Views&color=0e75b6&style=flat" alt="paulocymbaum" />
+
 
 ---
 
