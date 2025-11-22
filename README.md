@@ -102,6 +102,9 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
+  <a href="https://www.trychroma.com/">
+    <img src="https://img.shields.io/badge/ChromaDB-fc521f?style=for-the-badge&logo=chroma&logoColor=white" />
+  </a>
 </p>
 
 ---
