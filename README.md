@@ -133,6 +133,17 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   - Allows developers to seamlessly download and build the Flutter webapp locally across **Dev, Staging, and Production** environments.
   - Ensures consistency for sandbox development and performance testing while maintaining innovation and agility.
 
+### 💻 Prompt-To-App Prompt Generator
+*Aims to investigate the context to generate the best prompt for Vibe Coding or AI Spec Coding with Kiro / Cursor / Github Copilot.*
+
+- **An AI chatbot** that is instructed to investigate the product idea to get the relevant variables to define the best architecture and generate a final prompt.
+  - Ensures the final prompt defines scalability, product features, design aspects, system design, architecture, tech stack based on the previous investigation.
+  - Chat Memory per session using duckDB and RAG ensuring seamless long context conversations.
+  - Seamless UI/UX showing a checklist of acquired contexts that are relevant to the final prompt.
+  - Implemented using Langchain, Langraph, Langsmith, Python to run a stateful chatbot with long context capacity that delivers real business value.
+  - This will ensure reduction of token cost on Vibe Coding Prototyping and Spec Development using Agentic IDE development.
+
+
 ---
 
 <h2>🎓 Formal Education</h2>
@@ -146,10 +157,11 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 
 <h2>💼 Experience Highlights</h2>
 
+- **Tech Founder** Idealization to realization from end-to-end along with a PM cofounder (Product currently on Closed Beta tests)
 - **Frontend Specialist (Fourmakers)** Delivering high-value UX features for a B2B multi-tenant people tech product.
-- **Educator & Technologist** Deep experience in **teaching and education**, with a focus on tech, AI, and automation engineering.
-- **A Generalist**
-  Strong communication skills, people management, and product-led growth strategies with a data-driven approach.  
+- **Educator & Technologist** Deep experience in **teaching and education**, teaching Physics and English, AI, and automation engineering. Bringing a solid set of soft and hardskills to the table.
+- **A Jack-of-all-trades**
+  Strong communication skills, people management, product-led growth strategies with a data-driven approach, ML, full-stack approach, software architecture, user analytics, data analysis, Data Visualization.   
 
 ---
 
