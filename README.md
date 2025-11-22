@@ -119,7 +119,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 ---
 
 <h2>🌟 Key Projects & Engineering Highlights</h2>
-
+<h3>Main Projects</h3>
 ### 🛠️ Founder Engineer @ Yapper
 *Acting as lead engineer designing the architecture, data schema, and AI implementation.*
 
@@ -139,16 +139,8 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   - Allows developers to seamlessly download and build the Flutter webapp locally across **Dev, Staging, and Production** environments.
   - Ensures consistency for sandbox development and performance testing while maintaining innovation and agility.
 
-### 💻 Prompt-To-App Prompt Generator - Personal Project
-*Aims to investigate the context to generate the best prompt for Vibe Coding or AI Spec Coding with Kiro / Cursor / Github Copilot.*
-
-- **An AI chatbot** that is instructed to investigate the product idea to get the relevant variables to define the best system design and business context to generate a final prompt.
-  - Ensures the final prompt defines scalability, product features, design aspects, system design, architecture, tech stack based on the previous investigation.
-  - Chat Memory per session using duckDB and RAG ensuring seamless long context conversations.
-  - Seamless UI/UX showing a checklist of acquired contexts that are relevant to the final prompt.
-  - Implemented using Langchain, Langraph, Langsmith, Python to run a stateful chatbot with long context capacity that delivers real business value.
-  - This will ensure reduction of token cost on Vibe Coding Prototyping and Spec Development using Agentic IDE development.
- 
+----
+<h3>Freelance Projects</h3>
 ### 💻 Google Appscript Automation Module - Freelance Project
 *Aims to generate organic leads and brand awareness to a B2B Mentorship / Workshop / Professional Development enterprise through automated certificate generation"
 
@@ -159,7 +151,29 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   - Google sheets allow for changing the ID of all integrated files (Google Sheets, Google Slides, Gmail account, Linkedin ID) on the tools tab.
   - Full documentation on the Google Sheets tools tab to help usability.
   - A complete log of generated files, and error log with the saved data.
+ 
+    ----
+<h3>Personal Projects</h3>
+### 💻 Prompt-To-App Prompt Generator - Personal Project (In Progress)
+*Aims to investigate the context to generate the best prompt for Vibe Coding or AI Spec Coding with Kiro / Cursor / Github Copilot.*
 
+- **An AI chatbot** that is instructed to investigate the product idea to get the relevant variables to define the best system design and business context to generate a final prompt.
+  - Ensures the final prompt defines scalability, product features, design aspects, system design, architecture, tech stack based on the previous investigation.
+  - Chat Memory per session using duckDB and RAG ensuring seamless long context conversations.
+  - Seamless UI/UX showing a checklist of acquired contexts that are relevant to the final prompt.
+  - Implemented using Langchain, Langraph, Langsmith, Python to run a stateful chatbot with long context capacity that delivers real business value.
+  - This will ensure reduction of token cost on Vibe Coding Prototyping and Spec Development using Agentic IDE development.
+ 
+### 💻 Machine Learning Model to identify Prompt Injection - Personal (In Progress)
+*Aims to generate organic leads and brand awareness to a B2B Mentorship / Workshop / Professional Development enterprise through automated certificate generation"
+
+- **A Google Sheet Tool** integrated with a **Google Forms**, **Google Slides** holding the certificate template and placeholders, **Gmail** and **Google Drive**.
+  - Allow for the creation of certificate templates as google slide file.
+  - Google Forms inserts fields in the template.
+  - Template is sent to the "Student" with a link to the PDF and a auto-generated dynamic link to Linkedin to auto-fill the certificate forms to the issuer company.
+  - Google sheets allow for changing the ID of all integrated files (Google Sheets, Google Slides, Gmail account, Linkedin ID) on the tools tab.
+  - Full documentation on the Google Sheets tools tab to help usability.
+  - A complete log of generated files, and error log with the saved data.
 
 ---
 
