@@ -5,11 +5,11 @@
  
 </div>
 
-I am a Product-Minded Fullstack Engineer specializing in AI Agents, RAG Architectures, and Scalable Systems.
+I am a **Product-Minded Fullstack Engineer** specializing in **AI Agents**, **RAG Architectures**, and **Scalable Systems**.
 
-With a background in Education and Business (and 3 diplomas earned in Australia 🇦🇺), I bridge the gap between complex engineering and business value. I don't just write code; I design architectures that reduce costs, improve latency, and solve actual user problems.
+With a background in Education and Business (and 3 diplomas earned in Australia 🇦🇺) and a Bachelor degree on Automation and Control Engineering from one of the most respected institutions in Brazil. I bridge the gap between complex engineering and business value. I don't just write code; I design architectures that reduce costs, improve latency, and solve actual user problems. Bringing a deep set of hardskills and analytical skills along with softskills, communication and presentation skills.
 
-📍 Based in Brazil (GMT-3) | 🗣️ Native-Level English | 💼 Remote-First Veteran
+📍 Based in Brazil (GMT-3) | 🗣️ **Native-Level English** | 💼 Remote-First Veteran
 
 ---
 
@@ -113,6 +113,7 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
 
 <h2>🚀 What I Bring to the Table</h2>
 
+- **Rapid Prototyping Strategy**: I leverage tools like FlutterFlow and Supabase not as crutches, but as accelerators. This allows me to deliver MVP architectures and validate business hypotheses 3x faster than traditional builds, while maintaining the ability to inject custom code (Dart/Edge Functions) where performance matters.
 - **B2B Multi-Tenant Expertise** Currently driving value at **Fourmakers** as a Frontend Developer, delivering seamless UX and robust integrations within complex multi-tenant environments.
 - **Business-Centric Solutions** Combining technical expertise with strategic insight to build solutions for real-world business challenges.
 - **DevOps & Automation** Designing custom CLI tools and CI/CD pipelines that solve merge conflicts, enable parallel team development, and automate deployments.
@@ -131,9 +132,13 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
   - Implemented a **Smart LLM Routing System** that automatically routes errors to different models based on complexity.
   - Integrated full CI/CD with automated quality testing of generated responses.
 
-- **Backend Ops & Migration CLI (TypeScript):** Built a production-ready CLI to manage Supabase backend deliverables. It automates the generation, serialization, and execution of migration scripts for Edge Functions, RLS policies, and Cron Jobs.
+- **Backend Ops & Migration CLI (TypeScript):** 
 
-- **Frontend CI/CD Pipeline (Bash/GitHub Actions):** Established complete deployment flows for the Flutter webapp on Vercel, managing Dev, Staging, and Production environments to ensure robustness and agility.
+Built a production-ready CLI to manage Supabase backend deliverables. It automates the generation, serialization, and execution of migration scripts for Edge Functions, RLS policies, and Cron Jobs.
+
+- **Frontend CI/CD Pipeline (Bash/GitHub Actions):** 
+
+Established complete deployment flows for the Flutter webapp on Vercel, managing Dev, Staging, and Production environments to ensure robustness and agility with Bash and Github Actions.
 
 ### 💻 Frontend Developer @ Fourmakers
 *Focusing on B2B multi-tenant integrations and team efficiency.*
@@ -182,12 +187,19 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
   
   ---
 
-<h2>🎓 Formal Education</h2>
+<h2>🎓 Formal Education & International Experience</h2>
 
-  - Bachelor of Engineering in Automation and Control (FEI - Brazil)  
-  - Diploma of Business (Envirotech Education - Australia)
-  - Diploma of Management (Envirotech Education - Australia)
-  - Diploma of Project Management (Envirotech Education - Australia)
+Bachelor of **Engineering in Automation and Control** (FEI - Brazil)
+
+International Diplomas (Gold Coast, Australia 🇦🇺):
+
+Diploma of **Project Management**
+
+Diploma of **Business & Management**
+
+***Focus: Cross-cultural communication and Agile leadership in English-speaking environments.***
+
+For more details of my certifications check my Linkedin Account.
 
 ---
 
@@ -196,9 +208,7 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
 - **Tech Founder** Idealization to realization from end-to-end along with a PM cofounder (Product currently on Closed Beta tests)
 - **Frontend Specialist (Fourmakers)** Delivering high-value UX features for a B2B multi-tenant people tech product.
 - **Educator & Technologist** Deep experience in **teaching and education**, teaching Physics and English, AI, and automation engineering. Bringing a solid set of soft and hardskills to the table.
-- **A Jack-of-all-trades**
-  Strong communication skills, people management, product-led growth strategies with a data-driven approach, ML, full-stack approach, software architecture, user analytics, data analysis, Data Visualization.   
-
+- **T-Shaped Engineering Profile**: Deep specialization in **AI/LLM integrations (LangChain, Vector DBs)** supported by broad competency in DevOps automation, Frontend architecture, and Backend logic.
 ---
 
 <h2>🌍 Beyond Code</h2>
