@@ -7,7 +7,7 @@
 
 I am a **Product-Minded Fullstack Engineer** specializing in **AI Agents**, **RAG Architectures**, and **Scalable Systems**.
 
-With a background in Education and Business (and 3 diplomas earned in Australia 🇦🇺) and a Bachelor degree on Automation and Control Engineering from one of the most respected institutions in Brazil. I bridge the gap between complex engineering and business value. I don't just write code; I design architectures that reduce costs, improve latency, and solve actual user problems. Bringing a deep set of hardskills and analytical skills along with softskills, communication and presentation skills.
+With a background in Education and Business (and 3 diplomas earned in Australia 🇦🇺) and a Bachelor's on Automation and Control Engineering from one of the most respected institutions in Brazil. I bridge the gap between complex engineering and business value. I don't just write code; I design architectures that reduce costs, improve latency, and solve actual user problems. Bringing a deep set of hardskills and analytical skills along with softskills, communication and presentation skills.
 
 📍 Based in Brazil (GMT-3) | 🗣️ **Native-Level English** | 💼 Remote-First Veteran
 
@@ -132,13 +132,9 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
   - Implemented a **Smart LLM Routing System** that automatically routes errors to different models based on complexity.
   - Integrated full CI/CD with automated quality testing of generated responses.
 
-- **Backend Ops & Migration CLI (TypeScript):** 
+- **Backend Ops & Migration CLI (TypeScript):** Built a production-ready CLI to manage Supabase backend deliverables. It automates the generation, serialization, and execution of migration scripts for Edge Functions, RLS policies, and Cron Jobs.
 
-Built a production-ready CLI to manage Supabase backend deliverables. It automates the generation, serialization, and execution of migration scripts for Edge Functions, RLS policies, and Cron Jobs.
-
-- **Frontend CI/CD Pipeline (Bash/GitHub Actions):** 
-
-Established complete deployment flows for the Flutter webapp on Vercel, managing Dev, Staging, and Production environments to ensure robustness and agility with Bash and Github Actions.
+- **Frontend CI/CD Pipeline (Bash/GitHub Actions):** Established complete deployment flows for the Flutter webapp on Vercel, managing Dev, Staging, and Production environments to ensure robustness and agility with Bash and Github Actions.
 
 ### 💻 Frontend Developer @ Fourmakers
 *Focusing on B2B multi-tenant integrations and team efficiency.*
@@ -177,12 +173,12 @@ Established complete deployment flows for the Flutter webapp on Vercel, managing
 ### 💻 Machine Learning Model to identify Prompt Injection - Personal (In Progress)
 *Aims to deliver a low-latency protection to prompt injections"
 
-- **A educational project** to help me protect my current Language Model integrations from Prompt Injections. This project is based on PyTorch/PySpark AI features, BERT for embeddings using pandas and plotly for data visualization.
+- **An educational project** to help me protect my current Language Model integrations from Prompt Injections. This project is based on PyTorch/PySpark AI features, BERT for embeddings using pandas and plotly for data visualization.
   - Mapping common Prompt Injection Patterns
   - Finding a variety of datasets on the internet, Kaggle and HuggingFace. (5000 rows so far)
   - Creating a Naive-Bayes model to identify threats using BERT embedding to identify syntax of dangerous terms.
   - Perform Hyper-Parameter Optimization to find the best combination of weights.
-  - Trainig the model.
+  - Training the model.
   
   
   ---
