@@ -2,6 +2,9 @@
 <div align="center">
 
   ![paulocymbaum's Stats](https://github-readme-stats.vercel.app/api?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![paulocymbaum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=paulocymbaum&label=Profile%20Views&color=0e75b6&style=flat" alt="paulocymbaum" />
 
 </div>
 
