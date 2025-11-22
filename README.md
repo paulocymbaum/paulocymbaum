@@ -168,17 +168,17 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   - This will ensure reduction of token cost on Vibe Coding Prototyping and Spec Development using Agentic IDE development.
  
 ### 💻 Machine Learning Model to identify Prompt Injection - Personal (In Progress)
-*Aims to generate organic leads and brand awareness to a B2B Mentorship / Workshop / Professional Development enterprise through automated certificate generation"
+*Aims to deliver a low-latency protection to prompt injections"
 
-- **A Google Sheet Tool** integrated with a **Google Forms**, **Google Slides** holding the certificate template and placeholders, **Gmail** and **Google Drive**.
-  - Allow for the creation of certificate templates as google slide file.
-  - Google Forms inserts fields in the template.
-  - Template is sent to the "Student" with a link to the PDF and a auto-generated dynamic link to Linkedin to auto-fill the certificate forms to the issuer company.
-  - Google sheets allow for changing the ID of all integrated files (Google Sheets, Google Slides, Gmail account, Linkedin ID) on the tools tab.
-  - Full documentation on the Google Sheets tools tab to help usability.
-  - A complete log of generated files, and error log with the saved data.
-
----
+- **A educational project** to help me protect my current Language Model integrations from Prompt Injections. This project is based on PyTorch/PySpark AI features, BERT for embeddings using pandas and plotly for data visualization.
+  - Mapping common Prompt Injection Patterns
+  - Finding a variety of datasets on the internet, Kaggle and HuggingFace. (5000 rows so far)
+  - Creating a Naive-Bayes model to identify threats using BERT embedding to identify syntax of dangerous terms.
+  - Perform Hyper-Parameter Optimization to find the best combination of weights.
+  - Trainig the model.
+  
+  
+  ---
 
 <h2>🎓 Formal Education</h2>
 
