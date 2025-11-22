@@ -5,7 +5,7 @@
 
 </div>
 
-I am a **Fullstack Developer** and **Founding Engineer** with expertise in **AI technologies**, **DevOps automation**, and **low-code development**. My work combines technical proficiency with strategic thinking to build robust, end-to-end applications. 
+I am a **Fullstack Developer** and **Founding Engineer** with expertise in **AI technologies**, **DevOps automation**, **Software Engineering**, and **low-code development** for business value. My work combines technical proficiency with strategic thinking to build robust, end-to-end applications. 
 
 Currently, I am focused on building digital products with seamless UX. I act as a **Founding Engineer at Yapper** and a **Frontend Developer at Fourmakers**, where I specialize in B2B multi-tenant architectures.
 
