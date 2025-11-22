@@ -185,9 +185,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 <h2>🌍 Beyond Code</h2>
 
 I am a lifelong learner passionate about combining my diverse background with cutting-edge technologies to create impactful solutions. I also share my insights on **education, tech, and AI** through my [LinkedIn blog](https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/).
- <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=paulocymbaum&label=Profile%20Views&color=0e75b6&style=flat" alt="paulocymbaum" />
+
 
 
 ---
@@ -197,3 +195,5 @@ I am a lifelong learner passionate about combining my diverse background with cu
 Looking to collaborate or hire a **Fullstack Developer** with expertise in AI, DevOps CLIs, and scalable app development? Feel free to explore my repositories or connect with me!
 
 💌 **[Let’s Build Together!](mailto:paulo.cymbaum@gmail.com)**
+  
+  <img src="https://komarev.com/ghpvc/?username=paulocymbaum&label=Profile%20Views&color=0e75b6&style=flat" alt="paulocymbaum" />
