@@ -142,7 +142,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 ### 💻 Prompt-To-App Prompt Generator - Personal Project
 *Aims to investigate the context to generate the best prompt for Vibe Coding or AI Spec Coding with Kiro / Cursor / Github Copilot.*
 
-- **An AI chatbot** that is instructed to investigate the product idea to get the relevant variables to define the best architecture and generate a final prompt.
+- **An AI chatbot** that is instructed to investigate the product idea to get the relevant variables to define the best system design and business context to generate a final prompt.
   - Ensures the final prompt defines scalability, product features, design aspects, system design, architecture, tech stack based on the previous investigation.
   - Chat Memory per session using duckDB and RAG ensuring seamless long context conversations.
   - Seamless UI/UX showing a checklist of acquired contexts that are relevant to the final prompt.
