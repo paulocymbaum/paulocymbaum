@@ -96,6 +96,9 @@ Currently, I am focused on building digital products with seamless UX. I act as 
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
+  <a href="https://duckdb.org/">
+    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  </a>
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
