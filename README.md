@@ -5,9 +5,11 @@
  
 </div>
 
-I am a **Fullstack Developer** and **Founding Engineer** with expertise in **AI technologies**, **DevOps automation**, **Software Engineering**, and **low-code development** for business value. My work combines technical proficiency with strategic thinking to build robust, end-to-end applications. 
+I am a Product-Minded Fullstack Engineer specializing in AI Agents, RAG Architectures, and Scalable Systems.
 
-Currently, I am focused on building digital products with seamless UX. I act as a **Founding Engineer at Yapper**, an AI-based product from the ed-tech ESL segment, and a **Frontend Developer at Fourmakers**, where I specialize in B2B multi-tenant architectures.
+With a background in Education and Business (and 3 diplomas earned in Australia 🇦🇺), I bridge the gap between complex engineering and business value. I don't just write code; I design architectures that reduce costs, improve latency, and solve actual user problems.
+
+📍 Based in Brazil (GMT-3) | 🗣️ Native-Level English | 💼 Remote-First Veteran
 
 ---
 
