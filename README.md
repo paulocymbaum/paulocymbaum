@@ -5,17 +5,41 @@
 
 </div>
 
-I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code development**, and a focus on delivering impactful solutions for business validation and low-scale applications. My work combines technical proficiency, creativity, and strategic thinking to create robust, end-to-end applications. I am currently building my own products and businesses to develop my skills and I am open for new experiences to be able to develop myself in efficient, driven teams to build digital products with seamless UX.
+I am a **Fullstack Developer** and **Founding Engineer** with expertise in **AI technologies**, **DevOps automation**, and **low-code development**. My work combines technical proficiency with strategic thinking to build robust, end-to-end applications. 
+
+Currently, I am focused on building digital products with seamless UX. I act as a **Founding Engineer at Yapper** and a **Frontend Developer at Fourmakers**, where I specialize in B2B multi-tenant architectures.
 
 ---
 
-<a href="[https://www.linkedin.com/in/rodrigo-barbosa-003688209](https://br.linkedin.com/in/paulosasakicymbaum)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <a href="https://br.linkedin.com/in/paulosasakicymbaum" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:paulo.cymbaum@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 ---
 
 <h2>💻 My Tech Stack</h2>
 
-<!-- Frontend Development Section -->
+<h3>DevOps & Automation</h3>
+<p>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  </a>
+</p>
+
 <h3>Frontend Development</h3>
 <p>
   <a href="https://flutter.dev/">
@@ -32,15 +56,13 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
   </a>
 </p>
 
-<!-- Backend Development Section -->
-
 <h3>Backend Development</h3>
 <p>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -48,27 +70,14 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   </a>
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
-  <a href="https://supabase.com/">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Edge%20Functions-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
 </p>
 
-<!-- AI & Data Integration Section -->
 <h3>AI & Data Integration</h3>
 <p>
   <a href="https://www.langchain.com/">
@@ -80,12 +89,8 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
   <a href="https://buildship.dev/">
     <img src="https://img.shields.io/badge/Buildship-FF6F61?style=for-the-badge&logo=gradle&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-FFCC00?style=for-the-badge&logo=openai&logoColor=black" />
-  </a>
 </p>
 
-<!-- Database Management Section -->
 <h3>Database Management</h3>
 <p>
   <a href="https://www.postgresql.org/">
@@ -94,46 +99,39 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ORM-808080?style=for-the-badge&logo=database&logoColor=white" />
-  </a>
 </p>
-
-<!-- Low-Code Development Section -->
-<h3>Low-Code Development</h3>
-<p>
-  <a href="https://flutterflow.io/">
-    <img src="https://img.shields.io/badge/FlutterFlow-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-  <a href="https://supabase.com/">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  </a>
-</p>
-
-<!-- ETL Pipelines Section -->
-<h3>ETL Pipelines</h3>
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
-  </a>
-</p>
-
-
-
-
 
 ---
 
 <h2>🚀 What I Bring to the Table</h2>
 
-- **Business-Centric Solutions**  
-  Combining technical expertise with strategic insight to build solutions for real-world business challenges.
-- **End-to-End Development**  
-  Designing and deploying low-code and no-code solutions for MVPs and business validation.  
-- **Low-Code for Agile Development**  
-  Leveraging low-code platforms for quick iteration and MVP validation.
-- **AI-Driven Applications**  
-  Crafting AI-driven applications to streamline operations and enhance user experience.  
+- **B2B Multi-Tenant Expertise** Currently driving value at **Fourmakers** as a Frontend Developer, delivering seamless UX and robust integrations within complex multi-tenant environments.
+- **Business-Centric Solutions** Combining technical expertise with strategic insight to build solutions for real-world business challenges.
+- **DevOps & Automation** Designing custom CLI tools and CI/CD pipelines that solve merge conflicts, enable parallel team development, and automate deployments.
+- **AI-Driven Architectures** Crafting AI modules with advanced routing and error handling to streamline operations.
+
+---
+
+<h2>🌟 Key Projects & Engineering Highlights</h2>
+
+### 🛠️ Founder Engineer @ Yapper
+*Acting as lead engineer designing the architecture, data schema, and AI implementation.*
+
+- **AI Lesson Generation Engine (Python/LangChain):** Developed an automation module using JSON templates and Groq Cloud to generate structured English lessons. 
+  - Features **latency optimization** by tracking dependencies (Async vs Sync calls).
+  - Implemented a **Smart LLM Routing System** that automatically routes errors to different models based on complexity.
+  - Integrated full CI/CD with automated quality testing of generated responses.
+
+- **Backend Ops & Migration CLI (TypeScript):** Built a production-ready CLI to manage Supabase backend deliverables. It automates the generation, serialization, and execution of migration scripts for Edge Functions, RLS policies, and Cron Jobs.
+
+- **Frontend CI/CD Pipeline (Bash/GitHub Actions):** Established complete deployment flows for the Flutter webapp on Vercel, managing Dev, Staging, and Production environments to ensure robustness and agility.
+
+### 💻 Frontend Developer @ Fourmakers
+*Focusing on B2B multi-tenant integrations and team efficiency.*
+
+- **Local Development Orchestrator (Bash):** Created a CLI tool to decouple a 5-developer team, solving branch merge conflicts and dependency issues.
+  - Allows developers to seamlessly download and build the Flutter webapp locally across **Dev, Staging, and Production** environments.
+  - Ensures consistency for sandbox development and performance testing while maintaining innovation and agility.
 
 ---
 
@@ -146,28 +144,12 @@ I am a **Fullstack Developer** with expertise in **AI technologies**, **low-code
 
 ---
 
-<h2>🌟 Projects and Contributions</h2>
-
-Check out my repositories for projects showcasing:  
-- AI integration and NLP pipelines.
-- Designed the data schema and data structure for Yapper.
-- Designed the CI/CD flow to keep robustness on the deployment and testing process.  
-- Custom PostgreSQL functions for lesson platforms.  
-- Fullstack applications leveraging low-code and traditional development.
-- A developing completely a Learning Experience Platform called Yapper using AI to generate json structured English Lessons inside the platform. Leveraging my teaching expertise, business acumen and tech skills.
-- A CRM for my private tutoring business organizing all the financial and customer relationship metrics and dashboards.  
-
----
-
 <h2>💼 Experience Highlights</h2>
 
-- **Educator & Technologist**  
-  Deep experience in **teaching and education**, with a focus on tech, AI, and automation engineering.
+- **Frontend Specialist (Fourmakers)** Delivering high-value UX features for a B2B multi-tenant people tech product.
+- **Educator & Technologist** Deep experience in **teaching and education**, with a focus on tech, AI, and automation engineering.
 - **A Generalist**
-  Deep communication skills, people management, business, sales, product led growth with a data-driven approach and analytical skills.  
-- **App Development**  
-  Building backends, designing lesson pipelines, and developing complete applications from scratch.
-
+  Strong communication skills, people management, and product-led growth strategies with a data-driven approach.  
 
 ---
 
@@ -179,6 +161,6 @@ I am a lifelong learner passionate about combining my diverse background with cu
 
 ## 🤝 Let’s Connect!
 
-Looking to collaborate or hire a **Fullstack Developer** with expertise in AI, low-code platforms, and scalable app development? Feel free to explore my repositories or connect with me!
+Looking to collaborate or hire a **Fullstack Developer** with expertise in AI, DevOps CLIs, and scalable app development? Feel free to explore my repositories or connect with me!
 
 💌 **[Let’s Build Together!](mailto:paulo.cymbaum@gmail.com)**
