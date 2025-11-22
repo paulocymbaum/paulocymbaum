@@ -120,6 +120,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 
 <h2>🌟 Key Projects & Engineering Highlights</h2>
 <h3>Main Projects</h3>
+
 ### 🛠️ Founder Engineer @ Yapper
 *Acting as lead engineer designing the architecture, data schema, and AI implementation.*
 
@@ -141,6 +142,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
 
 ----
 <h3>Freelance Projects</h3>
+
 ### 💻 Google Appscript Automation Module - Freelance Project
 *Aims to generate organic leads and brand awareness to a B2B Mentorship / Workshop / Professional Development enterprise through automated certificate generation"
 
@@ -154,6 +156,7 @@ Currently, I am focused on building digital products with seamless UX. I act as 
  
     ----
 <h3>Personal Projects</h3>
+
 ### 💻 Prompt-To-App Prompt Generator - Personal Project (In Progress)
 *Aims to investigate the context to generate the best prompt for Vibe Coding or AI Spec Coding with Kiro / Cursor / Github Copilot.*
 
