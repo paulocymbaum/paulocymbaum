@@ -185,13 +185,13 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
 
 <h2>🎓 Formal Education & International Experience</h2>
 
-#### Bachelor of **Engineering in Automation and Control** (FEI - Brazil)
+### Bachelor of **Engineering in Automation and Control** (FEI - Brazil)
 
-#### International Diplomas (Gold Coast, Australia 🇦🇺):
+### International Diplomas (Gold Coast, Australia 🇦🇺):
 
-- #### Diploma of **Project Management**
+- ### Diploma of **Project Management**
 
-- #### Diploma of **Business & Management**
+- ### Diploma of **Business & Management**
 
 ***Focus: Cross-cultural communication and Agile leadership in English-speaking environments.***
 
