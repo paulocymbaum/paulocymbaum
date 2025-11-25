@@ -185,7 +185,7 @@ With a background in Education and Business (and 3 diplomas earned in Australia 
 
 <h2>🎓 Formal Education & International Experience</h2>
 
-### Bachelor of **Engineering in Automation and Control** (FEI - Brazil)
+### Bachelor's in **Automation and Control Engineering** (FEI - Brazil)
 
 ### International Diplomas (Gold Coast, Australia 🇦🇺):
 
