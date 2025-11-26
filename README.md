@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 <div align="center">
 
-![Paulo's Stats](https://github-readme-stats.vercel.app/api/pin/?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)](https://github.com/paulocymbaum/github-readme-stats)
+![Paulo's Stats](https://github-readme-stats.vercel.app/api/pin/?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)(https://github.com/paulocymbaum/github-readme-stats)
 ![Paulo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocymbaum&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
  
 </div>
